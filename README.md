@@ -131,5 +131,5 @@ In `04_modeling.ipynb`, I trained a `LinearRegression` model to forecast total s
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/retail-sales-analysis.git
+git clone https://github.com/Thakgatso-Hlahlane-Choma/retail-sales-analysis.git
 cd retail-sales-analysis
